@@ -1,2 +1,7 @@
 npm i jest
 https://jestjs.io/docs/getting-started
+
+
+npm i supertest
+
+npm i rosie
