@@ -3,5 +3,6 @@ https://jestjs.io/docs/getting-started
 
 
 npm i supertest
+yarn add supertest @types/supertest --dev
 
 npm i rosie
